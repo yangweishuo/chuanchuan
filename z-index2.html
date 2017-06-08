@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/z-index.css" />
+		<script type="text/javascript">
+    	
+   		  (function (doc, win) {
+            var docEl = doc.documentElement,
+                resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+                recalc = function () {
+                  var clientWidth = docEl.clientWidth;
+                  if (!clientWidth) return;
+                  docEl.style.fontSize = 100 * (clientWidth / 750) + 'px';
+                };
+            if (!doc.addEventListener) return;
+            win.addEventListener(resizeEvt, recalc, false);
+            doc.addEventListener('DOMContentLoaded', recalc, false);
+        })(document, window);
+   		
+    </script>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<a><img src="images/tou.png"/></a>
+				<p>设置</p>
+			</header>
+			<section>
+				<div class="list">
+					<div class="top">
+						<span>密码管理</span>
+						<i><img src="images/gg.png"/></i>
+					</div>
+					<div class="top">
+						<span>密码管理</span>
+						<i><img src="images/gg.png"/></i>
+					</div>
+					<div class="top">
+						<span>密码管理</span>
+						<i><img src="images/gg.png"/></i>
+					</div>
+					<div class="top">
+						<span>密码管理</span>
+						<i><img src="images/gg.png"/></i>
+					</div>
+				</div>
+				<div class="rad">
+					<a href="#">退出登录</a>
+				</div>
+			</section>
+			<div class="zdex1">
+				<div class="sure">
+					<div class="top-a"><p>为了保障账户安全，<br>修改密码时，请输入原始密码</p></div>
+					<input type="text" placeholder="请输入原始密码" class="input">
+					<div class="top-b">
+						<a href="#" class="sd">确定</a>
+						<a href="#"  class="cd">删除</a>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</body>
+</html>

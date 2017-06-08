@@ -127,3 +127,65 @@ html {
   margin-left: 1.76rem;
   line-height: 0.87rem;
 }
+.zdex1 {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 99999;
+}
+.zdex1 .input {
+  display: block;
+  text-align: center;
+  margin-left: 1rem;
+  border: none;
+  font-size: 0.22rem;
+  border-bottom: 0.01rem  solid #fcc479;
+}
+.zdex1 .sure {
+  width: 4.5rem;
+  height: 2.4rem;
+  background: #ffffff;
+  position: absolute;
+  top: 50%;
+  margin-top: -3.8rem;
+  left: 50%;
+  margin-left: -2.2rem;
+}
+.zdex1 .sure .top-a {
+  width: 4.5rem;
+  height: 1.45rem;
+  background: full;
+}
+.zdex1 .sure .top-a p {
+  color: #9a9a9a;
+  font-size: 0.3rem;
+  text-align: center;
+}
+.zdex1 .sure .top-b {
+  width: 4.5rem;
+  height: 0.87rem;
+  background: full;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+}
+.zdex1 .sure .top-b .sd {
+  color: #9a9a9a;
+  -webkit-box-flex: 1;
+  font-size: 0.3rem;
+  margin-top: 0.17rem;
+  margin-left: 0.77rem;
+  line-height: 0.87rem;
+}
+.zdex1 .sure .top-b .cd {
+  color: #ffb871;
+  font-size: 0.3rem;
+  -webkit-box-flex: 1;
+  margin-top: 0.17rem;
+  margin-left: 1.76rem;
+  line-height: 0.87rem;
+}

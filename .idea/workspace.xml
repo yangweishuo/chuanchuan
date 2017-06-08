@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0fb16fe-4dea-4e80-8614-05814e2f9a18" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/xian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/0-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/发现.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/图层-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/圆角矩形-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/多边形-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/安全.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/时间排序.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/椭圆-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/活动(3).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/皇冠(5).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/相册(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/眼睛.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/积分(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/筛选.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/组-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/组-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/组-31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/设置(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/达人等级5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/返回(1)1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/返回-副本-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/返回-副本.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/进入(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/邀请好友.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/铃铛.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/login.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/z-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/z_index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/z_index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fans.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iphone7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/password_on.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/set.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/z-index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/z_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/z_index1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tou.png" afterPath="$PROJECT_DIR$/images/tou.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add.html" afterPath="$PROJECT_DIR$/add.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/z-index.css" afterPath="$PROJECT_DIR$/css/z-index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/z-index.less" afterPath="$PROJECT_DIR$/css/z-index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/zhuang.css" afterPath="$PROJECT_DIR$/css/zhuang.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/zhuang.less" afterPath="$PROJECT_DIR$/css/zhuang.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.json" afterPath="$PROJECT_DIR$/manifest.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,8 +30,8 @@
       <file leaf-file-name="login.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -119,7 +62,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <push-targets>
-      <push-target-info target-remote="origin" target-branch="gh-pages" repo="$PROJECT_DIR$" source="master" />
+      <push-target-info target-remote="origin" target-branch="master" repo="$PROJECT_DIR$" source="master" />
     </push-targets>
   </component>
   <component name="IdeDocumentHistory">
@@ -143,9 +86,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="286" />
-    <option name="y" value="25" />
-    <option name="width" value="1378" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -310,7 +253,7 @@
       <option name="presentableId" value="Default" />
       <updated>1496891242920</updated>
       <workItem from="1496891246603" duration="4016000" />
-      <workItem from="1496901935060" duration="5187000" />
+      <workItem from="1496901935060" duration="5465000" />
     </task>
     <task id="LOCAL-00001" summary="chuanchuan">
       <created>1496891458231</created>
@@ -333,16 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1496892118446</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chuanchuan">
+      <created>1496907185446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1496907185446</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9203000" />
+    <option name="totallyTimeSpent" value="9481000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="286" y="25" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -484,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="133">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>

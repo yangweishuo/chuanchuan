@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/fen.css"/>
+		 <script type="text/javascript">
+    	
+   		  (function (doc, win) {
+            var docEl = doc.documentElement,
+                resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+                recalc = function () {
+                  var clientWidth = docEl.clientWidth;
+                  if (!clientWidth) return;
+                  docEl.style.fontSize = 100 * (clientWidth / 750) + 'px';
+                };
+            if (!doc.addEventListener) return;
+            win.addEventListener(resizeEvt, recalc, false);
+            doc.addEventListener('DOMContentLoaded', recalc, false);
+        })(document, window);
+   		
+    </script>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<p class="ty"><img src="images/tou.png"/></p>
+				<p class="ui">我的粉丝</p>
+			</header>
+			<section>
+				<div class="main">
+					<div class="list">
+						<div class="le"><img src="images/4.png"/></div>
+						<div class="cen">
+							<p><span><img src="images/951.png"/></span>的合法规范胡</p>
+							<p class="w">大家好国际分工合，哈哈</p>
+						</div>
+						<div class="rt"><img src="images/hh-3.png"/></div>
+					</div>
+					<div class="list">
+						<div class="le"><img src="images/4.png"/></div>
+						<div class="cen">
+							<p><span><img src="images/951.png"/></span>的合法规范胡</p>
+							<p class="w">大家好国际分工合，哈哈</p>
+						</div>
+						<div class="rt"><img src="images/hh-3.png"/></div>
+					</div>
+					<div class="list">
+						<div class="le"><img src="images/4.png"/></div>
+						<div class="cen">
+							<p><span><img src="images/951.png"/></span>的合法规范胡</p>
+							<p class="w">大家好国际分工合，哈哈</p>
+						</div>
+						<div class="rt"><img src="images/hh-3.png"/></div>
+					</div>
+					<div class="list">
+						<div class="le"><img src="images/4.png"/></div>
+						<div class="cen">
+							<p><span><img src="images/951.png"/></span>的合法规范胡</p>
+							<p class="w">大家好国际分工合，哈哈</p>
+						</div>
+						<div class="rt"><img src="images/hh-3.png"/></div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

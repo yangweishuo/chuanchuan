@@ -1,0 +1,247 @@
+@import url(reset.css);
+.container,
+body,
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.container {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+.container header {
+  width: 100%;
+  height: 3.17rem;
+  background: #ffc0cb;
+  background: url(../images/gbg.png) no-repeat;
+  background-size: 100% auto;
+}
+.container header .top {
+  width: 1.92rem;
+  height: 2.3rem;
+  background: full;
+  margin-left: 2.85rem;
+}
+.container header .top h6 img {
+  width: 1.57rem;
+  margin-left: 6px;
+  margin-top: 0.3rem;
+}
+.container header .top p {
+  text-align: center;
+  color: #fff;
+  margin-top: 0.30rem;
+  font-size: 0.3rem;
+}
+.container header .pos {
+  width: 1.79rem;
+  height: 0.62rem;
+  background: full;
+}
+.container header .pos a {
+  position: absolute;
+  right: 1.3rem;
+  top: 0.21rem;
+}
+.container header .pos a img {
+  width: 0.43rem;
+}
+.container header .pos .v {
+  position: absolute;
+  right: 0.4rem;
+  top: 0.21rem;
+}
+.container header .pos .v img {
+  width: 0.43rem;
+}
+.container header .pot {
+  width: 1.74rem;
+  height: 0.49rem;
+  background: #ffff00;
+  position: absolute;
+  right: 0;
+  top: 0.98rem;
+  background: url(../img/yu-5.png) no-repeat;
+  background-size: 100% auto;
+}
+.container header .pot p {
+  color: #fff;
+  font-size: 0.27rem;
+  margin-left: 0.13rem;
+  text-align: center;
+}
+.container header .pot p span {
+  margin-left: 0.18rem;
+}
+.container header .pot p b {
+  margin-left: 0.3rem;
+}
+.container header .pot p b img {
+  width: 0.17rem;
+  margin-top: 0.03rem;
+}
+.container section {
+  background: #f3f3f3;
+  -webkit-box-flex: 1;
+  overflow: auto;
+}
+.container section .list {
+  width: 100%;
+  height: 1.58rem;
+  background: #ffffff;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+}
+.container section .list dl {
+  -webkit-box-flex: 1;
+  text-align: center;
+  margin-top: 0.24rem;
+  background: url(../images/9·_03.png) no-repeat right center;
+}
+.container section .list dl dt {
+  font-size: 0.25rem;
+}
+.container section .list dl dt img {
+  width: 0.5rem;
+}
+.container section .list dl dd {
+  margin-top: 0.18rem;
+  color: #5d5d5d;
+  font-size: 0.25rem;
+}
+.container section .list .la {
+  background: none;
+}
+.container section .main {
+  width: 100%;
+  height: 2.58rem;
+  background: full;
+  margin-top: 0.15rem;
+}
+.container section .main .bot {
+  width: 100%;
+  height: 0.9rem;
+  background: #ffffff;
+  border-bottom: 1px solid #e1e1e1;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+}
+.container section .main .bot a img {
+  width: 0.3rem;
+  margin-left: 0.38rem;
+  margin-top: 0.05rem;
+}
+.container section .main .bot h4 {
+  -webkit-box-flex: 1;
+  margin-left: 0.22rem;
+  color: #494949;
+  font-size: 0.3rem;
+}
+.container section .main .bot h4 span {
+  color: #cdcdcd;
+  margin-left: 0.11rem;
+}
+.container section .main .bot .tu img {
+  width: 0.2rem;
+}
+.container section .main2 {
+  width: 100%;
+  height: 1.9rem;
+  background: #ffffff;
+  margin-top: 0.5rem;
+}
+.container section .main2 .main {
+  width: 100%;
+  height: 1.87rem;
+  background: full;
+  margin-top: 0.15rem;
+}
+.container section .main2 .main .bot {
+  width: 100%;
+  height: 0.9rem;
+  background: #ffffff;
+  border-bottom: 1px solid #e1e1e1;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+}
+.container section .main2 .main .bot a img {
+  width: 0.3rem;
+  margin-left: 0.38rem;
+  margin-top: 0.05rem;
+}
+.container section .main2 .main .bot h4 {
+  -webkit-box-flex: 1;
+  margin-left: 0.22rem;
+  color: #494949;
+  font-size: 0.3rem;
+}
+.container section .main2 .main .bot h4 span {
+  color: #cdcdcd;
+  margin-left: 0.11rem;
+}
+.container section .main2 .main .bot .tu img {
+  width: 0.2rem;
+}
+.container section .main3 {
+  width: 100%;
+  height: 4.6rem;
+  background: #ffffff;
+  margin-top: 0.3rem;
+}
+.container section .main3 .main {
+  width: 100%;
+  height: 4.59rem;
+  background: full;
+  margin-top: 0.15rem;
+}
+.container section .main3 .main .bot {
+  width: 100%;
+  height: 0.9rem;
+  background: #ffffff;
+  border-bottom: 1px solid #e1e1e1;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+}
+.container section .main3 .main .bot a img {
+  width: 0.3rem;
+  margin-left: 0.38rem;
+  margin-top: 0.05rem;
+}
+.container section .main3 .main .bot h4 {
+  -webkit-box-flex: 1;
+  margin-left: 0.22rem;
+  color: #494949;
+  font-size: 0.3rem;
+}
+.container section .main3 .main .bot h4 span {
+  color: #cdcdcd;
+  margin-left: 0.11rem;
+}
+.container section .main3 .main .bot .tu img {
+  width: 0.2rem;
+}
+.container footer {
+  width: 100%;
+  height: 0.95rem;
+  background: #ffffff;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+}
+.container footer dl {
+  -webkit-box-flex: 1;
+  text-align: center;
+}
+.container footer dl dt img {
+  width: 0.48rem;
+}
+.container footer dl dd {
+  color: #999999;
+}
+.container footer dl .w {
+  color: #f93f52;
+}
